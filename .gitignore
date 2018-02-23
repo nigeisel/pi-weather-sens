@@ -1,5 +1,7 @@
 data/
 API_KEY
+web-interface/vis.min.css
+web-interface/vis.min.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
