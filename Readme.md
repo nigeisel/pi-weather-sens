@@ -2,7 +2,7 @@
 * Adafruit DHT sensor package:
 * `git clone https://github.com/adafruit/Adafruit_Python_DHT.git && cd Adafruit_Python_DHT`
 * `sudo python setup.py install`
-
+* from http://visjs.org/: vis.min.js and vis.min.css
 
 # Todo:
 
