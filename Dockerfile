@@ -15,4 +15,4 @@ COPY weather-check.py ./
 COPY weather-server.py ./
 
 # ENTRYPOINT ["python", "weather-check.py", "60"]
-ENTRYPOINT ["flask", "run"]
+ENTRYPOINT ["flask", "run", "--host=0.0.0.0"]
