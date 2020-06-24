@@ -35,5 +35,5 @@ def weather():
         <p style="color:{humidity_color}">Humidity: {humidity}&#37;</p>
     </body></html>
     """.format(temp=temperature, temp_color=temp_color, humidity=humidity, humidity_color=humidity_color)
-    
-    return res
+
+    return html
